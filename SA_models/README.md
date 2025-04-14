@@ -1,4 +1,4 @@
-## CNN models
+## SA models
 
 These scripts generate the results of SA models in our manuscript. 
 

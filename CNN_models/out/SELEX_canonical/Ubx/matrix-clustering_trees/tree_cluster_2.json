@@ -1,0 +1,49 @@
+{
+"name": "",
+"children":[
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "children": [
+ {
+ "label": "ubx_m58_FILTER_LEN11_57", 
+},
+{
+ "label": "ubx_m18_FILTER_LEN11_17", 
+} 
+] 
+},
+{
+ "label": "ubx_m43_FILTER_LEN11_42", 
+} 
+] 
+},
+{
+ "children": [
+ {
+ "children": [
+ {
+ "label": "ubx_m11_FILTER_LEN11_10", 
+},
+{
+ "label": "ubx_m9_FILTER_LEN11_8", 
+} 
+] 
+},
+{
+ "children": [
+ {
+ "label": "ubx_m91_FILTER_LEN11_90", 
+},
+{
+ "label": "ubx_m64_FILTER_LEN11_63", 
+} 
+] 
+} 
+] 
+} 
+] 
+} 
+]}

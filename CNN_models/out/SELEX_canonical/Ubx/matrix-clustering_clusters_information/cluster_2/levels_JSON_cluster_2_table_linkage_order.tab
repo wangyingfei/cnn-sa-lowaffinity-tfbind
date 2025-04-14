@@ -1,0 +1,7 @@
+merged_ID	child_1	child_2
+node_1	ubx_m18_FILTER_LEN11_17	ubx_m58_FILTER_LEN11_57
+node_2	ubx_m11_FILTER_LEN11_10	ubx_m9_FILTER_LEN11_8
+node_3	ubx_m64_FILTER_LEN11_63	ubx_m91_FILTER_LEN11_90
+node_4	ubx_m43_FILTER_LEN11_42	node_1
+node_5	node_2	node_3
+node_6	node_4	node_5

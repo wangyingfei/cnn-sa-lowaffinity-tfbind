@@ -1,0 +1,30 @@
+AC  cluster_2
+XX
+ID  cluster_2
+XX
+DE  -wyaatAawtmatwt
+P0       a     c     g     t
+1        0     0     0     0
+2    57098 38644 50450 57688
+3    49379 142186 37875 144341
+4    226426 123444 85594 108215
+5    383681 55709 85876 154336
+6    94445 92177 53941 439036
+7    463379 53607 45577 117042
+8    430083 47498 43541 158475
+9    384515 47113 70205 177768
+10   128686 102509 34132 414274
+11   196845 293098 45263 144395
+12   426297 44988 40358 167957
+13   99606 105078 46879 224158
+14   112037 53109 54440 86231
+15   33019 17998 27259 57644
+XX
+CC  consensus.strict: -ttaatAaatcatat
+CC  consensus.strict.rc: ATATGATTTATTAA-
+CC  consensus.IUPAC: -wyaatAawtmatwt
+CC  consensus.IUPAC.rc: AWATKAWTTATTRW-
+CC  consensus.regexp: -[at][ct]aatAa[at]t[ac]at[at]t
+CC  consensus.regexp.rc: A[AT]AT[GT]A[AT]TTATT[AG][AT]-
+XX
+//

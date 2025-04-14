@@ -1,0 +1,31 @@
+AC  cluster_1
+XX
+ID  cluster_1
+XX
+DE  --tmATaAaTcAw---
+P0       a     c     g     t
+1        0     0     0     0
+2        0     0     0     0
+3    33833 33730 14898 53458
+4    52121 42489 15736 25573
+5    93251  4027 14615 24028
+6    23257  6702  6630 99332
+7    73657 17766 14911 29586
+8    102429 10634  8510 14346
+9    74077 19273  9701 32868
+10   11559 17927 10469 95966
+11   33970 59290 13457 29200
+12   111488  4862 11637  7931
+13   43129 20058 29619 43113
+14       0     0     0     0
+15       0     0     0     0
+16       0     0     0     0
+XX
+CC  consensus.strict: --taATaAaTcAa---
+CC  consensus.strict.rc: ---TTGATTTATTA--
+CC  consensus.IUPAC: --tmATaAaTcAw---
+CC  consensus.IUPAC.rc: ---WTGATTTATKA--
+CC  consensus.regexp: --t[ac]ATaAaTcA[at]---
+CC  consensus.regexp.rc: ---[AT]TGATTTAT[GT]A--
+XX
+//
